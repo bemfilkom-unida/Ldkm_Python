@@ -21,11 +21,11 @@ Simply open `index.html` in any modern web browser.
 ## 🤝 Credits
 
 ### 🎨 Design
-**Kel Python**  
+**Kel Python, Raddin Pratama, Usman Dhani**  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 💻 Development
-**GitHub Copilot**  
+**Raddin Pratama With Help From Gemini 3 PRO**  
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Figma MCP](https://img.shields.io/badge/Figma_MCP-Enabled-00C853?style=for-the-badge&logo=figma&logoColor=white)
