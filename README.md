@@ -5,7 +5,7 @@ This project implements the Figma design for the AI Generated Content Checker us
 ## Structure
 
 - `index.html`: The main HTML structure.
-- `style.css`: The CSS styles, converted from the original design's Tailwind classes.
+- `style.css`: The CSS styles
 - `script.js`: Basic JavaScript file.
 
 ## How to Run
