@@ -4,16 +4,23 @@ This project implements the Figma design for the AI Generated Content Checker us
 
 ## Structure
 
-- `index.html`: The main HTML structure.
-- `style.css`: The CSS styles
-- `script.js`: Basic JavaScript file.
+- `web/index.html`: The main HTML structure.
+- `web/style.css`: The CSS styles.
+- `web/fonts.css`: Font definitions.
+- `web/script.js`: Basic JavaScript file.
+- `web/fonts/`: Local font files directory.
 
 ## How to Run
 
-Simply open `index.html` in any modern web browser.
+Simply open `web/index.html` in any modern web browser.
+
+## Features
+
+- **Offline Capable**: All assets, including fonts, are stored locally.
+- **Responsive Design**: Fixed background grid and adaptive layout.
 
 ## Notes
-- Fonts (Arimo, Inter, Noto Sans) are loaded from Google Fonts.
+- Fonts (Arimo, Inter, Noto Sans) are downloaded locally to ensure the site works without an internet connection.
 
 ## 🤝 Credits
 
